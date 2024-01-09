@@ -1,0 +1,43 @@
+.header-container {
+  position: relative;
+  text-align: center;
+  color: white;
+  border-radius: 16px;
+}
+
+.header-image {
+  border-radius: 16px;
+  width: 100%;
+}
+
+.header-overlay {
+  border-radius: 16px;
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+  position: absolute;
+  inset: 0;
+}
+
+.header-content-title {
+  color: #fff;
+  text-align: center;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px;
+}
+
+.header-content-subtitle {
+  color: #fff;
+  font-style: normal;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 95px;
+}
+
+.header-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,7 @@
+.main-container {
+  display: grid;
+  grid-gap: 100px;
+  width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,68 @@
+.sale-container {
+  position: relative;
+  text-align: center;
+  color: white;
+  border-radius: 16px;
+}
+
+.sale-subtitle {
+  color: #070211;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.sale-title {
+  color: #070211;
+  text-align: center;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  margin: 20px;
+}
+
+.sale-description {
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sale-image {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 662.07px;
+}
+
+.sale-discount-image {
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+
+.sale-women-image {
+  position: absolute;
+  right: 0px;
+}
+
+.sale-gift-box-image {
+  position: absolute;
+  left: 5%;
+  width: 796.463px;
+  height: 662.07px;
+  z-index: 100;
+}
+
+.sale-red-base-image {
+  position: absolute;
+  bottom: 0px;
+  z-index: 10;
+}
